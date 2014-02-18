@@ -11,7 +11,7 @@ package com.cisco.webex.common.web;
 public class HttpUtilsTest {
     
     public static String getHttpServerName() {
-        return "";
+        return "cisco.com";
     }
 
 }
