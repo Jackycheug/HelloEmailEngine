@@ -14,7 +14,7 @@ public class HttpUtils {
     }
     
     public static String getServerDomain() {        
-        return "webex.com";
+        return "cisco.com";
     }
 
 }
