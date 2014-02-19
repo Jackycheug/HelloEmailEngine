@@ -12,5 +12,9 @@ public class HttpUtils {
     public static String getHttpServerName() {
         return "cisco.com";
     }
+    
+    public static String getServerDomain() {
+        return "":
+    }
 
 }
