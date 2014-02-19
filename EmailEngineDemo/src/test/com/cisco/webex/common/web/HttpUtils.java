@@ -8,5 +8,9 @@ package com.cisco.webex.common.web;
  * @version V1.0   
  */
 public class HttpUtils {
+    
+    public static String getHttpServerName() {
+        return "cisco.com";
+    }
 
 }
